@@ -6,7 +6,7 @@
  -->
  
  # 💫 About Me:
-Senior JS Engineer 1
+Hi, I'm Dev that happens to be a dev
 
 
 ## 🌐 Socials:
